@@ -76,6 +76,7 @@
 - [Waves Audio](https://www.waves.com/) – Extensive collection of studio and live audio plugins.
 - [Slate Digital](https://slatedigital.com/) – Analog-modeled plugins and virtual mixing systems.
 - [TDR Nova](https://www.tokyodawn.net/tdr-nova/) – Free dynamic EQ plugin widely used in mixing.
+- [FreeEQ8](https://github.com/GareBear99/FreeEQ8) – Free, open-source JUCE-based 8-band parametric EQ plugin with linear phase, dynamic EQ, match EQ, M/S processing, per-band drive, oversampling, and VST3/AU/Standalone support.
 
 ## Live Sound & Broadcasting
 
