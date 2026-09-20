@@ -101,6 +101,7 @@
 - [Audacity](https://www.audacityteam.org/) – Open-source audio editor with analysis features.
 - [WaveSurfer](https://www.speech.kth.se/wavesurfer/) – Tool for sound visualization and speech analysis.
 - [Praat](https://www.fon.hum.uva.nl/praat/) – Software for phonetic analysis of speech.
+- [Browser Music Analysis Kit](https://github.com/j022315051/browser-music-analysis-kit) – Open-source JavaScript helpers for browser-side pitch, key, Camelot, and timestamped chord analysis.
 
 ## Hardware & Interfaces
 
