@@ -71,6 +71,7 @@
 
 ## Recording, Mixing & Mastering Tools
 
+- [FM-1 Emulator](https://fm1-emulator.atst.tools/) – Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares.
 - [iZotope RX](https://www.izotope.com/en/products/rx.html) – Advanced audio repair and restoration suite.
 - [iZotope Ozone](https://www.izotope.com/en/products/ozone.html) – Mastering software with AI-assisted tools.
 - [FabFilter](https://www.fabfilter.com/) – Professional EQ, compression, and mixing plugins.
